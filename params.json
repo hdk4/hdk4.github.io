@@ -1,6 +1,6 @@
 {
   "name": "清风轩 - Hdk4.com",
   "tagline": "",
-  "body": "欢迎访问清风小站。\r\n### 概要\r\n本站建设的情怀。\r\n### 简介\r\n```json\r\n{\r\n\"ttile\": \"清风轩\",\r\n\"description\": \"A website to introduce the exprience of Web Front-end\",\r\n\"author\": \"xovel\",\r\n\"location\": \"神龙阁\",\r\n\"platform\": \"github\" \r\n}\r\n```\r\n### 未完待续\r\n...\r\n",
+  "body": "欢迎访问清风小站。\r\n### 概要\r\n本站是依据情怀而建的。:smile:\r\n### 简介\r\n```json\r\n{\r\n\"title\": \"清风轩\",\r\n\"description\": \"A website to introduce the exprience of Web Front-end\",\r\n\"author\": \"xovel\",\r\n\"location\": \"神龙阁\",\r\n\"platform\": \"github\" \r\n}\r\n```\r\n### 未完待续\r\n...\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
